@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/solay39official",
   "VITE_SEO_SITE_NAME": "solay39",
   "VITE_SEO_SITE_DESCRIPTION": "A powerful decentralizate exchange",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/solay39-9389/",
+  "VITE_SEO_SITE_URL": "https://solay39.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
